@@ -11,7 +11,7 @@ A Python version of rquery/rqdatatable is under initial development as data_alge
 
 For example scoring a logistic regression model (which requires grouping, ordering, and ranking) is organized as follows. For more on this example please see “Let’s Have Some Sympathy For The Part-time R User”.
 
-library("rqdatatable")
+        library("rqdatatable")
 
 ## Loading required package: wrapr
 
